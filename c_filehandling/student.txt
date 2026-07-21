@@ -1,0 +1,3 @@
+today is the last day of c programming!
+i learned and understood c during these 12 days.
+now, i should practice more probleass in cto become expert.
